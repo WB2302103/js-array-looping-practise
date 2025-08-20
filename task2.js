@@ -19,6 +19,7 @@ for(var i=0;i<numbers.length;i++)
     
 }
 console.log(even);
+// array even pushing
 
 // for(num of numbers)
 // {
