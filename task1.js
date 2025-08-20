@@ -12,3 +12,4 @@
 const arr=[];
 arr.push(colors);
 console.log(arr);
+// array reversing
